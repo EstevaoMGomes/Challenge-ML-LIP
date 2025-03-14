@@ -175,3 +175,5 @@ cython_debug/
 
 *.h5
 *.ckpt
+*.tar*
+*.root
